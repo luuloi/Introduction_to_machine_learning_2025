@@ -1,1 +1,1 @@
-# Introduction_to_machine_learning_2025
+# Introduction to Machine Learning Spring 2025
